@@ -101,7 +101,7 @@ Array.from(document.getElementsByClassName("songItemPlay")).forEach(
 
 // next button ke liye
 document.getElementById("next").addEventListener("click", () => {
-  if (songIndex >= 10) {
+  if (songIndex >=3) {
     songIndex = 0;
   } else {
     songIndex += 1;
