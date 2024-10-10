@@ -12,37 +12,31 @@ let songs = [
   // s1
 
   {
-    songName: "Tere liye hi jiya me.",
+    songName: "Dil ka Kya Kare",
     filePath: "songs/1.mp3",
     coverPath: "covers/1.jpg",
   },
   // s2
 
   {
-    songName: "Kaise Jiunga Tere Bina.",
+    songName: "Shalman Full Songs",
     filePath: "songs/2.mp3",
     coverPath: " covers/2.jpg",
   },
   // s3
 
   {
-    songName: "Abhi Me Mujhme Jinda hu..",
+    songName: "Ye Mere Humsafar Full Songs",
     filePath: "songs/3.mp3",
     coverPath: "covers/3.jpg",
   },
+  
   // s4
 
   {
-    songName: "Kaisa Ye Ishq Hai.",
+    songName: "Govinda Full Songs",
     filePath: "songs/4.mp3",
     coverPath: "covers/4.jpg",
-  },
-  // s5
-
-  {
-    songName: "Best New Songs 2023.",
-    filePath: "songs/5.mp3",
-    coverPath: "covers/5.jpg",
   },
 ];
 
